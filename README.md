@@ -13,6 +13,7 @@ Neccessary components:
 - case for Ultrasonic Sensor - there are many different forms available for 3D printing on the internet, just search for it
 
 PinOut diagram:
+![alt text](NodeMCU-Ultrasonic_bb.png "Logo Title Text 1")
 
 Arduino code:
 
