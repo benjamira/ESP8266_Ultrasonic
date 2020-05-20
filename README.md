@@ -19,3 +19,5 @@ Neccessary components:
 [Get ino file here](Ultrasonic_with_MQTT.ino)
 
 ## Pictures:
+### holding components ready to be fixed in cistern:
+![alt text](halterung.png "holding components ready to be fixed in cistern")
