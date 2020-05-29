@@ -8,7 +8,7 @@ Ultrasonic ultrasonic(12, 13);
 #define wifi_password     "<wifi pass>"
 
 #define mqtt_server       "<mqtt server>"
-#define mqtt_clientid     "<unique clieent id>"
+#define mqtt_clientid     "<unique client id>"
 
 #define abstand_topic     "Haus/Garten/Zisterne/Abstand"     //Abstand zwischen Sensor und Oberfläche (cm)
 #define wasserstand_topic "Haus/Garten/Zisterne/Wasserstand" //Wasserstand (cm)
