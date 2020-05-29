@@ -2,6 +2,8 @@
 Ultrasonic Sensor with ESP8266 NodeMCU and MQTT
 
 This setup shows how to set up ESP8266 with Ultrasonic Sensor HC-SR04 and MQTT, for example for monitoring the water level of a cistern.
+The sensor sends the measured distance from the water surface to the NodeMCU ESP8266. From this value the water level and an estimated percentage of the filling level are calculated and send to an MQTT Broker (in my case, Mosquitto running on a Raspberry Pi).
+In OpenHAB items are defined for these values, and send to an InfluxDB, from where you can use the measurements to display them in a Grafana dashboard.
 
 Neccessary components:
 - ESP8266 NoceMCU (E-12)
@@ -21,3 +23,9 @@ Neccessary components:
 ## Pictures:
 ### holding components ready to be fixed in cistern:
 ![alt text](halterung.jpg "holding components ready to be fixed in cistern")
+
+## Setup in OpenHAB
+(todo)
+
+## Inclusion in Grafana Dashboard
+(todo)
