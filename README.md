@@ -23,6 +23,7 @@ Neccessary components:
 ## Pictures:
 ### holding components ready to be fixed in cistern:
 ![alt text](halterung.jpg "holding components ready to be fixed in cistern")
+(more pictures will follow)
 
 ## Setup in OpenHAB
 (todo)
